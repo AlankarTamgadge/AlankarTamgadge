@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlankarTamgadge
+- 👋 Hi, I’m Alankar Tamgadge
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything that grows my knowledge
